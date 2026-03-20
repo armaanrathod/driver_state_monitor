@@ -1,4 +1,5 @@
-# Driver Drowsiness Detection System
+# Driver State Monitor
+
 
 A real-time computer vision system for detecting facial landmarks as a foundation for driver drowsiness detection.
 
